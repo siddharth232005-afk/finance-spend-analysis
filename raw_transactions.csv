@@ -1,0 +1,1040 @@
+transaction_id,transaction_date,category,merchant,amount,txn_type
+1,2024-07-01,Salary,Employer Inc,55618.1,credit
+2,2024-07-01,Entertainment,PVR Cinemas,-486.76,debit
+3,2024-07-01,Entertainment,Spotify,-284.47,debit
+4,2024-07-02,Entertainment,Netflix,-384.16,debit
+5,2024-07-02,SHOPPING,Myntra,-851.97,debit
+6,2024-07-03,Healthcare,Apollo Pharmacy,-231.81,debit
+7,2024-07-03,Groceries,Local Kirana,-552.37,debit
+8,2024-07-03,EDUCATION,College Fee,-982.54,debit
+9,2024-07-03,Dining,Swiggy,-188.89,debit
+10,2024-07-03,Utilities,Water Dept,-615.27,debit
+11,2024-07-04,GROCERIES,BigBasket,-244.42,debit
+12,2024-07-04,Groceries,BigBasket,-404.81,debit
+13,2024-07-04,Shopping,Flipkart,-570.62,debit
+14,2024-07-04,Groceries,DMart,-291.85,debit
+15,2024-07-04,Entertainment,PVR Cinemas,-374.85,debit
+16,2024-07-04,Transport,Uber,-308.25,debit
+17,2024-07-05,RENT,Landlord Transfer,-9664.89,debit
+18,2024-07-05,Shopping,Amazon,-333.79,debit
+19,2024-07-05,Transport,Petrol Pump,-213.37,debit
+20,2024-07-05,Dining,Cafe Coffee Day,-372.08,debit
+21,2024-07-05,Utilities,Airtel Broadband,-989.31,debit
+22,2024-07-06,Utilities,Water Dept,-522.88,debit
+23,2024-07-07,Groceries,BigBasket,-327.99,debit
+24,2024-07-07,Shopping,Amazon,-1333.4,debit
+25,2024-07-07,Utilities,Airtel Broadband,-862.03,debit
+26,2024-07-07,Entertainment,Netflix,-222.76,debit
+27,2024-07-08,Groceries,Local Kirana,-340.12,debit
+28,2024-07-08,SHOPPING,Local Store,-1266.49,debit
+29,2024-07-08,GROCERIES,Reliance Fresh,-289.64,debit
+30,2024-07-08,Healthcare,Apollo Pharmacy,-903.91,debit
+31,2024-07-09,TRANSPORT,Petrol Pump,-152.72,debit
+32,2024-07-09,Groceries,Reliance Fresh,-549.28,debit
+33,2024-07-09,Entertainment,PVR Cinemas,-293.86,debit
+34,2024-07-10,Utilities,Electricity Board,-681.24,debit
+35,2024-07-10,Healthcare,Local Clinic,-386.98,debit
+36,2024-07-10,Groceries,DMart,-331.99,debit
+37,2024-07-11,Groceries,DMart,-349.68,debit
+38,2024-07-11,Groceries,DMart,-497.61,debit
+39,2024-07-11,Shopping,Flipkart,-417.14,debit
+40,2024-07-12,DINING,Cafe Coffee Day,-394.37,debit
+41,2024-07-12,Groceries,BigBasket,-413.6,debit
+42,2024-07-12,Groceries,Reliance Fresh,-514.65,debit
+43,2024-07-12,Transport,Metro Card,-388.49,debit
+44,2024-07-12,Healthcare,Health Insurance,-608.94,debit
+45,2024-07-12,Healthcare,Local Clinic,-601.22,debit
+46,2024-07-13,Entertainment,BookMyShow,-231.33,debit
+47,2024-07-13,Groceries,Reliance Fresh,-425.83,debit
+48,2024-07-13,Dining,McDonalds,-224.74,debit
+49,2024-07-14,EDUCATION,College Fee,-1002.15,debit
+50,2024-07-14,Utilities,Electricity Board,-730.1,debit
+51,2024-07-14,Transport,Uber,-178.78,debit
+52,2024-07-16,DINING,Domino's,-319.15,debit
+53,2024-07-16,Entertainment,Netflix,-325.22,debit
+54,2024-07-17,Groceries,DMart,-498.7,debit
+55,2024-07-17,Dining,Swiggy,-316.06,debit
+56,2024-07-17,Groceries,Reliance Fresh,-633.92,debit
+57,2024-07-19,Shopping,Myntra,-1067.81,debit
+58,2024-07-19,ENTERTAINMENT,BookMyShow,-169.8,debit
+59,2024-07-19,ENTERTAINMENT,PVR Cinemas,-395.75,debit
+60,2024-07-19,Dining,Cafe Coffee Day,-136.71,debit
+61,2024-07-20,Education,College Fee,-372.82,debit
+62,2024-07-20,UTILITIES,Airtel Broadband,-893.63,debit
+63,2024-07-20,Education,Udemy,-742.4,debit
+64,2024-07-21,Groceries,Reliance Fresh,-548.84,debit
+65,2024-07-21,Transport,Metro Card,-321.6,debit
+66,2024-07-21,UTILITIES,Electricity Board,-817.49,debit
+67,2024-07-22,Groceries,DMart,-688.39,debit
+68,2024-07-23,Entertainment,BookMyShow,-352.01,debit
+69,2024-07-24,Transport,Uber,-286.64,debit
+70,2024-07-24,Dining,Cafe Coffee Day,-320.61,debit
+71,2024-07-25,SHOPPING,Local Store,-816.16,debit
+72,2024-07-25,Groceries,BigBasket,-452.24,debit
+73,2024-07-25,Entertainment,Spotify,-173.86,debit
+74,2024-07-25,GROCERIES,Local Kirana,-545.64,debit
+75,2024-07-26,Groceries,DMart,-698.42,debit
+76,2024-07-26,Shopping,Local Store,-1172.74,debit
+77,2024-07-26,Groceries,Local Kirana,-262.79,debit
+78,2024-07-26,Shopping,Myntra,-951.79,debit
+79,2024-07-27,Shopping,Flipkart,-396.38,debit
+80,2024-07-27,Entertainment,PVR Cinemas,-458.03,debit
+81,2024-07-28,GROCERIES,Local Kirana,-640.91,debit
+82,2024-07-28,GROCERIES,Local Kirana,-418.22,debit
+83,2024-07-28,Groceries,BigBasket,-154.97,debit
+84,2024-07-29,SHOPPING,Amazon,-1307.85,debit
+85,2024-07-30,Dining,Zomato,-175.84,debit
+86,2024-07-30,ENTERTAINMENT,BookMyShow,-394.17,debit
+87,2024-07-31,SHOPPING,Flipkart,-1265.93,debit
+88,2024-08-01,SALARY,Employer Inc,64260.71,credit
+89,2024-08-01,Groceries,Local Kirana,-449.67,debit
+90,2024-08-02,Dining,Domino's,-346.19,debit
+91,2024-08-02,Groceries,Reliance Fresh,-517.86,debit
+92,2024-08-04,DINING,McDonalds,-391.51,debit
+93,2024-08-04,SHOPPING,Local Store,-1493.32,debit
+94,2024-08-05,Rent,Landlord Transfer,-8424.68,debit
+95,2024-08-05,Entertainment,Netflix,-326.97,debit
+96,2024-08-05,Dining,Cafe Coffee Day,-168.6,debit
+97,2024-08-05,Dining,Zomato,-212.05,debit
+98,2024-08-06,Healthcare,Apollo Pharmacy,-708.04,debit
+99,2024-08-06,Entertainment,PVR Cinemas,-425.58,debit
+100,2024-08-06,GROCERIES,Local Kirana,-572.91,debit
+101,2024-08-07,Dining,Zomato,-355.22,debit
+102,2024-08-08,SHOPPING,Local Store,-1064.48,debit
+103,2024-08-08,Dining,McDonalds,-219.55,debit
+104,2024-08-09,GROCERIES,DMart,-355.96,debit
+105,2024-08-10,Shopping,Amazon,-1010.29,debit
+106,2024-08-10,Groceries,Local Kirana,-372.76,debit
+107,2024-08-10,Groceries,Local Kirana,-401.91,debit
+108,2024-08-11,Transport,Uber,-96.6,debit
+109,2024-08-11,Dining,Cafe Coffee Day,-149.81,debit
+110,2024-08-11,Dining,Domino's,-287.23,debit
+111,2024-08-11,Dining,Domino's,-109.43,debit
+112,2024-08-11,Shopping,Amazon,-303.25,debit
+113,2024-08-11,Shopping,Amazon,-453.01,debit
+114,2024-08-11,Groceries,Reliance Fresh,-633.25,debit
+115,2024-08-12,Groceries,Reliance Fresh,-445.49,debit
+116,2024-08-12,Groceries,BigBasket,-268.02,debit
+117,2024-08-12,Transport,Ola,-311.41,debit
+118,2024-08-14,Dining,McDonalds,-361.44,debit
+119,2024-08-14,GROCERIES,Local Kirana,-624.63,debit
+120,2024-08-14,DINING,Cafe Coffee Day,-369.84,debit
+121,2024-08-15,Groceries,Local Kirana,-415.3,debit
+122,2024-08-15,SHOPPING,Myntra,-1172.03,debit
+123,2024-08-15,Groceries,DMart,-660.76,debit
+124,2024-08-15,DINING,Zomato,-282.19,debit
+125,2024-08-16,Dining,Zomato,-292.52,debit
+126,2024-08-16,Entertainment,Spotify,-253.07,debit
+127,2024-08-16,DINING,McDonalds,-316.01,debit
+128,2024-08-16,Groceries,Local Kirana,-658.89,debit
+129,2024-08-16,GROCERIES,DMart,-443.17,debit
+130,2024-08-17,Dining,Domino's,-394.34,debit
+131,2024-08-18,Groceries,Local Kirana,-402.44,debit
+132,2024-08-18,Groceries,DMart,-495.37,debit
+133,2024-08-18,Groceries,Local Kirana,-667.25,debit
+134,2024-08-18,Groceries,DMart,-608.32,debit
+135,2024-08-18,Groceries,Local Kirana,-576.05,debit
+136,2024-08-19,Entertainment,PVR Cinemas,-263.52,debit
+137,2024-08-19,ENTERTAINMENT,Spotify,-298.8,debit
+138,2024-08-20,Healthcare,,-1038.0,debit
+139,2024-08-20,Shopping,Amazon,-400.62,debit
+140,2024-08-20,Dining,McDonalds,-351.68,debit
+141,2024-08-20,Shopping,Myntra,-764.71,debit
+142,2024-08-20,Transport,Petrol Pump,-344.15,debit
+143,2024-08-21,Entertainment,Netflix,-431.06,debit
+144,2024-08-21,GROCERIES,Local Kirana,-668.5,debit
+145,2024-08-22,HEALTHCARE,Local Clinic,-515.64,debit
+146,2024-08-22,DINING,Domino's,-223.5,debit
+147,2024-08-22,Transport,Uber,-89.71,debit
+148,2024-08-22,UTILITIES,Water Dept,-642.31,debit
+149,2024-08-23,Healthcare,Apollo Pharmacy,-670.09,debit
+150,2024-08-23,Groceries,Local Kirana,-439.45,debit
+151,2024-08-23,Utilities,Water Dept,-279.89,debit
+152,2024-08-23,Utilities,Airtel Broadband,-225.05,debit
+153,2024-08-24,Utilities,Water Dept,-713.49,debit
+154,2024-08-24,Education,Udemy,-378.97,debit
+155,2024-08-25,Transport,Metro Card,-104.06,debit
+156,2024-08-26,TRANSPORT,Metro Card,-399.24,debit
+157,2024-08-27,Groceries,Local Kirana,-171.36,debit
+158,2024-08-27,HEALTHCARE,Local Clinic,-206.89,debit
+159,2024-08-28,Entertainment,Netflix,-210.93,debit
+160,2024-08-28,Entertainment,Spotify,-291.14,debit
+161,2024-08-28,Transport,Metro Card,-99.28,debit
+162,2024-08-28,Transport,Ola,-190.51,debit
+163,2024-08-29,Groceries,BigBasket,-206.38,debit
+164,2024-08-29,Dining,Domino's,-370.39,debit
+165,2024-08-29,Groceries,BigBasket,-201.21,debit
+166,2024-08-30,Groceries,Local Kirana,-547.55,debit
+167,2024-08-30,Groceries,Reliance Fresh,-601.98,debit
+168,2024-08-31,Utilities,Airtel Broadband,-832.27,debit
+169,2024-08-31,TRANSPORT,Uber,-285.64,debit
+170,2024-08-31,Healthcare,Health Insurance,-688.54,debit
+171,2024-08-31,Transport,Ola,-200.21,debit
+172,2024-09-01,Transport,Metro Card,-207.42,debit
+173,2024-09-01,Groceries,Reliance Fresh,-431.98,debit
+174,2024-09-01,Shopping,Amazon,-1124.74,debit
+175,2024-09-01,Dining,McDonalds,-123.14,debit
+176,2024-09-01,UTILITIES,Electricity Board,-734.34,debit
+177,2024-09-01,Salary,Employer Inc,60979.91,credit
+178,2024-09-01,GROCERIES,DMart,-157.2,debit
+179,2024-09-01,Transport,Petrol Pump,-246.73,debit
+180,2024-09-02,Dining,Cafe Coffee Day,-111.0,debit
+181,2024-09-02,ENTERTAINMENT,Spotify,-402.75,debit
+182,2024-09-03,Dining,Swiggy,-172.36,debit
+183,2024-09-03,Groceries,Reliance Fresh,-386.74,debit
+184,2024-09-04,Shopping,Myntra,-377.28,debit
+185,2024-09-05,Entertainment,Spotify,-180.42,debit
+186,2024-09-05,Rent,Landlord Transfer,-8363.65,debit
+187,2024-09-05,Transport,Uber,-271.52,debit
+188,2024-09-05,Transport,Petrol Pump,-336.56,debit
+189,2024-09-06,Transport,Ola,-56.28,debit
+190,2024-09-07,SHOPPING,Amazon,-825.18,debit
+191,2024-09-07,GROCERIES,Local Kirana,-287.48,debit
+192,2024-09-08,Groceries,Local Kirana,-673.29,debit
+193,2024-09-08,Groceries,BigBasket,-619.2,debit
+194,2024-09-08,SHOPPING,Flipkart,-1152.18,debit
+195,2024-09-09,UTILITIES,Airtel Broadband,-778.72,debit
+196,2024-09-10,Dining,McDonalds,-144.87,debit
+197,2024-09-11,Dining,Swiggy,-277.09,debit
+198,2024-09-11,GROCERIES,Reliance Fresh,-556.15,debit
+199,2024-09-11,Shopping,Amazon,-1331.98,debit
+200,2024-09-11,SHOPPING,Flipkart,-1161.23,debit
+201,2024-09-11,Groceries,BigBasket,-523.81,debit
+202,2024-09-11,Groceries,Local Kirana,-314.36,debit
+203,2024-09-12,Groceries,BigBasket,-651.09,debit
+204,2024-09-12,Healthcare,Local Clinic,-794.29,debit
+205,2024-09-12,Transport,Metro Card,-298.17,debit
+206,2024-09-12,Dining,Swiggy,-202.56,debit
+207,2024-09-13,TRANSPORT,Metro Card,-156.96,debit
+208,2024-09-13,Groceries,DMart,-171.45,debit
+209,2024-09-13,Entertainment,Spotify,-279.52,debit
+210,2024-09-14,Entertainment,BookMyShow,-393.41,debit
+211,2024-09-14,Shopping,Myntra,-738.87,debit
+212,2024-09-16,Utilities,Water Dept,-452.96,debit
+213,2024-09-16,Dining,Domino's,-111.79,debit
+214,2024-09-17,Shopping,Myntra,-1088.28,debit
+215,2024-09-19,Healthcare,Local Clinic,-866.93,debit
+216,2024-09-19,Groceries,Local Kirana,-569.97,debit
+217,2024-09-19,Shopping,Local Store,-1480.98,debit
+218,2024-09-20,Dining,McDonalds,-396.77,debit
+219,2024-09-20,Entertainment,Netflix,-221.55,debit
+220,2024-09-21,Groceries,DMart,-486.74,debit
+221,2024-09-21,Groceries,BigBasket,-216.76,debit
+222,2024-09-22,Utilities,Airtel Broadband,-853.84,debit
+223,2024-09-22,Entertainment,PVR Cinemas,-154.69,debit
+224,2024-09-22,Entertainment,Spotify,-425.77,debit
+225,2024-09-22,Dining,Zomato,-232.69,debit
+226,2024-09-22,Dining,Domino's,-245.32,debit
+227,2024-09-23,Dining,Zomato,-386.22,debit
+228,2024-09-23,Entertainment,Spotify,-299.87,debit
+229,2024-09-24,Transport,Uber,-378.09,debit
+230,2024-09-24,Dining,Cafe Coffee Day,-206.79,debit
+231,2024-09-25,Education,Coursera,-1773.89,debit
+232,2024-09-25,Entertainment,Netflix,-163.31,debit
+233,2024-09-25,ENTERTAINMENT,Netflix,-430.75,debit
+234,2024-09-26,Dining,Domino's,-327.46,debit
+235,2024-09-27,Entertainment,Spotify,-451.04,debit
+236,2024-09-27,GROCERIES,Local Kirana,-493.77,debit
+237,2024-09-27,Healthcare,Local Clinic,-523.96,debit
+238,2024-09-28,Dining,Domino's,-184.56,debit
+239,2024-09-28,Healthcare,Local Clinic,-893.53,debit
+240,2024-09-28,ENTERTAINMENT,Spotify,-437.5,debit
+241,2024-09-28,Entertainment,Netflix,-347.94,debit
+242,2024-09-28,Dining,Cafe Coffee Day,-275.1,debit
+243,2024-09-28,Utilities,Electricity Board,-376.15,debit
+244,2024-09-29,DINING,Cafe Coffee Day,-214.48,debit
+245,2024-09-29,Groceries,BigBasket,-583.15,debit
+246,2024-09-29,Utilities,Jio Recharge,-816.59,debit
+247,2024-09-30,TRANSPORT,Metro Card,-196.9,debit
+248,2024-09-30,ENTERTAINMENT,Spotify,-421.53,debit
+249,2024-09-30,Dining,McDonalds,-264.61,debit
+250,2024-10-01,UTILITIES,Electricity Board,-868.33,debit
+251,2024-10-01,Dining,Zomato,-352.14,debit
+252,2024-10-01,Dining,Zomato,-229.27,debit
+253,2024-10-01,Salary,Employer Inc,58979.88,credit
+254,2024-10-01,Groceries,Local Kirana,-695.19,debit
+255,2024-10-02,Healthcare,Local Clinic,-1073.46,debit
+256,2024-10-03,TRANSPORT,Metro Card,-293.24,debit
+257,2024-10-03,Healthcare,Apollo Pharmacy,-182.88,debit
+258,2024-10-03,Groceries,BigBasket,-194.13,debit
+259,2024-10-03,Entertainment,PVR Cinemas,-339.95,debit
+260,2024-10-04,Groceries,DMart,-656.55,debit
+261,2024-10-04,Entertainment,Spotify,-403.84,debit
+262,2024-10-04,Dining,McDonalds,-171.58,debit
+263,2024-10-05,Rent,Landlord Transfer,-8366.81,debit
+264,2024-10-05,DINING,Cafe Coffee Day,-221.36,debit
+265,2024-10-06,UTILITIES,Water Dept,-704.56,debit
+266,2024-10-06,Shopping,Myntra,-1046.27,debit
+267,2024-10-06,GROCERIES,Reliance Fresh,-300.37,debit
+268,2024-10-07,Education,Coursera,-573.37,debit
+269,2024-10-07,Dining,Domino's,-184.75,debit
+270,2024-10-07,DINING,McDonalds,-308.1,debit
+271,2024-10-07,GROCERIES,Reliance Fresh,-423.49,debit
+272,2024-10-07,Dining,Swiggy,-175.0,debit
+273,2024-10-08,Shopping,Myntra,-763.96,debit
+274,2024-10-08,Shopping,Myntra,-1022.3,debit
+275,2024-10-08,Groceries,BigBasket,-615.93,debit
+276,2024-10-08,Entertainment,Netflix,-162.58,debit
+277,2024-10-09,Groceries,BigBasket,-414.49,debit
+278,2024-10-09,Dining,Domino's,-364.72,debit
+279,2024-10-10,Dining,Swiggy,-328.69,debit
+280,2024-10-10,Groceries,Local Kirana,-434.03,debit
+281,2024-10-11,Groceries,Reliance Fresh,-350.58,debit
+282,2024-10-11,Groceries,BigBasket,-256.91,debit
+283,2024-10-12,Entertainment,BookMyShow,-280.3,debit
+284,2024-10-12,Healthcare,Apollo Pharmacy,-683.81,debit
+285,2024-10-12,Dining,Domino's,-345.73,debit
+286,2024-10-13,Groceries,BigBasket,-246.37,debit
+287,2024-10-14,Groceries,BigBasket,-673.35,debit
+288,2024-10-15,DINING,Domino's,-123.28,debit
+289,2024-10-15,HEALTHCARE,Local Clinic,-1007.22,debit
+290,2024-10-15,Groceries,DMart,-459.1,debit
+291,2024-10-15,GROCERIES,Reliance Fresh,-189.2,debit
+292,2024-10-15,Groceries,Reliance Fresh,-626.6,debit
+293,2024-10-16,Utilities,Water Dept,-415.8,debit
+294,2024-10-16,GROCERIES,DMart,-636.75,debit
+295,2024-10-16,Transport,Petrol Pump,-367.66,debit
+296,2024-10-17,Shopping,,-343.56,debit
+297,2024-10-17,Entertainment,PVR Cinemas,-253.85,debit
+298,2024-10-18,Groceries,Reliance Fresh,-656.46,debit
+299,2024-10-18,Entertainment,Spotify,-312.22,debit
+300,2024-10-19,Entertainment,Netflix,-346.03,debit
+301,2024-10-19,Transport,Metro Card,-310.9,debit
+302,2024-10-19,TRANSPORT,Metro Card,-376.24,debit
+303,2024-10-20,Transport,Petrol Pump,-233.46,debit
+304,2024-10-21,Groceries,Local Kirana,-170.29,debit
+305,2024-10-21,Entertainment,BookMyShow,-418.31,debit
+306,2024-10-21,Dining,Swiggy,-211.43,debit
+307,2024-10-21,Education,Coursera,-356.19,debit
+308,2024-10-21,Utilities,Electricity Board,-688.5,debit
+309,2024-10-22,Groceries,DMart,-627.9,debit
+310,2024-10-22,Shopping,Myntra,-1016.39,debit
+311,2024-10-22,Dining,Zomato,-126.29,debit
+312,2024-10-22,Healthcare,Local Clinic,-1121.15,debit
+313,2024-10-22,Utilities,Jio Recharge,-324.19,debit
+314,2024-10-23,Groceries,BigBasket,-555.45,debit
+315,2024-10-24,DINING,McDonalds,-207.57,debit
+316,2024-10-24,Groceries,Reliance Fresh,-271.47,debit
+317,2024-10-24,Groceries,Local Kirana,-581.94,debit
+318,2024-10-24,Groceries,Local Kirana,-252.37,debit
+319,2024-10-25,Groceries,BigBasket,-295.03,debit
+320,2024-10-25,Groceries,Reliance Fresh,-673.01,debit
+321,2024-10-25,Healthcare,Apollo Pharmacy,-1166.87,debit
+322,2024-10-25,Dining,Cafe Coffee Day,-381.49,debit
+323,2024-10-25,Shopping,,-694.25,debit
+324,2024-10-26,Entertainment,Netflix,-334.03,debit
+325,2024-10-26,Entertainment,PVR Cinemas,-477.11,debit
+326,2024-10-26,Entertainment,PVR Cinemas,-327.66,debit
+327,2024-10-26,Groceries,BigBasket,-307.17,debit
+328,2024-10-26,Groceries,Local Kirana,-464.55,debit
+329,2024-10-26,UTILITIES,Water Dept,-382.46,debit
+330,2024-10-27,Groceries,BigBasket,-339.86,debit
+331,2024-10-27,DINING,Swiggy,-269.19,debit
+332,2024-10-28,Groceries,Reliance Fresh,-442.22,debit
+333,2024-10-28,Shopping,Local Store,-1323.48,debit
+334,2024-10-29,DINING,Cafe Coffee Day,-133.77,debit
+335,2024-10-29,Shopping,Amazon,-596.22,debit
+336,2024-10-30,Groceries,,-356.14,debit
+337,2024-10-30,Shopping,Myntra,-1343.05,debit
+338,2024-10-30,Dining,McDonalds,-205.27,debit
+339,2024-10-30,Groceries,DMart,-281.88,debit
+340,2024-10-30,DINING,Cafe Coffee Day,-274.64,debit
+341,2024-11-01,Dining,Swiggy,-274.66,debit
+342,2024-11-01,Salary,Employer Inc,52340.28,credit
+343,2024-11-01,Education,College Fee,-774.77,debit
+344,2024-11-02,Shopping,Local Store,-659.45,debit
+345,2024-11-02,Groceries,BigBasket,-406.2,debit
+346,2024-11-03,Transport,Ola,-368.29,debit
+347,2024-11-03,Dining,McDonalds,-391.22,debit
+348,2024-11-03,Dining,Swiggy,-160.56,debit
+349,2024-11-03,Entertainment,Netflix,-386.99,debit
+350,2024-11-04,ENTERTAINMENT,Netflix,-170.37,debit
+351,2024-11-04,SHOPPING,Myntra,-568.3,debit
+352,2024-11-05,Utilities,Water Dept,-310.02,debit
+353,2024-11-05,Transport,Petrol Pump,-396.63,debit
+354,2024-11-05,Dining,Swiggy,-380.85,debit
+355,2024-11-05,SHOPPING,Amazon,-1299.7,debit
+356,2024-11-05,Rent,Landlord Transfer,-8608.48,debit
+357,2024-11-07,Dining,McDonalds,-183.81,debit
+358,2024-11-07,GROCERIES,BigBasket,-665.13,debit
+359,2024-11-08,Transport,Ola,-132.59,debit
+360,2024-11-08,SHOPPING,Flipkart,-1213.84,debit
+361,2024-11-08,Shopping,Flipkart,-425.89,debit
+362,2024-11-09,Dining,Zomato,-231.52,debit
+363,2024-11-09,TRANSPORT,Petrol Pump,-126.02,debit
+364,2024-11-09,Shopping,Local Store,-846.8,debit
+365,2024-11-10,Dining,Swiggy,-368.27,debit
+366,2024-11-10,Education,Udemy,-1294.75,debit
+367,2024-11-11,Groceries,DMart,-397.88,debit
+368,2024-11-11,Transport,Ola,-106.48,debit
+369,2024-11-11,Dining,McDonalds,-202.54,debit
+370,2024-11-12,Groceries,Local Kirana,-247.59,debit
+371,2024-11-12,TRANSPORT,Petrol Pump,-248.91,debit
+372,2024-11-12,Shopping,Myntra,-230.67,debit
+373,2024-11-13,Shopping,Local Store,-436.24,debit
+374,2024-11-13,Transport,Uber,-391.6,debit
+375,2024-11-13,Dining,Zomato,-285.15,debit
+376,2024-11-14,Groceries,BigBasket,-426.72,debit
+377,2024-11-14,GROCERIES,Reliance Fresh,-186.57,debit
+378,2024-11-15,Groceries,Reliance Fresh,-317.31,debit
+379,2024-11-15,Dining,McDonalds,-310.08,debit
+380,2024-11-16,Utilities,Jio Recharge,-332.19,debit
+381,2024-11-16,Groceries,BigBasket,-696.62,debit
+382,2024-11-16,Groceries,DMart,-506.28,debit
+383,2024-11-17,Healthcare,Apollo Pharmacy,-964.98,debit
+384,2024-11-17,Utilities,Water Dept,-706.48,debit
+385,2024-11-18,Groceries,Local Kirana,-308.89,debit
+386,2024-11-19,Dining,McDonalds,-273.16,debit
+387,2024-11-19,Shopping,Myntra,-235.9,debit
+388,2024-11-20,Entertainment,Netflix,-480.42,debit
+389,2024-11-21,Groceries,Local Kirana,-533.5,debit
+390,2024-11-21,Groceries,DMart,-157.92,debit
+391,2024-11-21,Education,Coursera,-849.03,debit
+392,2024-11-21,Dining,Domino's,-280.73,debit
+393,2024-11-21,UTILITIES,Airtel Broadband,-435.24,debit
+394,2024-11-22,Groceries,BigBasket,-597.59,debit
+395,2024-11-22,Shopping,Myntra,-891.41,debit
+396,2024-11-22,Groceries,Local Kirana,-574.01,debit
+397,2024-11-22,Dining,,-231.69,debit
+398,2024-11-23,Entertainment,BookMyShow,-279.43,debit
+399,2024-11-23,Dining,McDonalds,-224.06,debit
+400,2024-11-23,Shopping,Local Store,-470.34,debit
+401,2024-11-23,Transport,Ola,-208.12,debit
+402,2024-11-23,HEALTHCARE,Apollo Pharmacy,-937.66,debit
+403,2024-11-24,Groceries,Reliance Fresh,-470.67,debit
+404,2024-11-24,Entertainment,PVR Cinemas,-412.91,debit
+405,2024-11-24,Dining,Cafe Coffee Day,-382.16,debit
+406,2024-11-24,Entertainment,Spotify,-222.48,debit
+407,2024-11-24,DINING,McDonalds,-218.37,debit
+408,2024-11-24,Dining,Domino's,-363.8,debit
+409,2024-11-25,Groceries,BigBasket,-602.53,debit
+410,2024-11-25,Dining,Cafe Coffee Day,-260.52,debit
+411,2024-11-26,GROCERIES,Local Kirana,-271.12,debit
+412,2024-11-26,Education,Coursera,-1538.43,debit
+413,2024-11-26,Transport,Ola,-116.39,debit
+414,2024-11-26,Groceries,Local Kirana,-193.15,debit
+415,2024-11-26,Dining,McDonalds,-200.56,debit
+416,2024-11-27,Utilities,Electricity Board,-741.55,debit
+417,2024-11-27,Shopping,Myntra,-1464.61,debit
+418,2024-11-27,Transport,Petrol Pump,-214.95,debit
+419,2024-11-27,Transport,Ola,-57.67,debit
+420,2024-11-27,Groceries,DMart,-285.28,debit
+421,2024-11-28,Groceries,Reliance Fresh,-370.17,debit
+422,2024-11-28,Groceries,Reliance Fresh,-460.44,debit
+423,2024-11-28,Utilities,Airtel Broadband,-406.35,debit
+424,2024-11-29,GROCERIES,Local Kirana,-555.63,debit
+425,2024-11-30,Entertainment,BookMyShow,-401.15,debit
+426,2024-11-30,Dining,Cafe Coffee Day,-216.6,debit
+427,2024-12-01,Salary,Employer Inc,52339.92,credit
+428,2024-12-01,Dining,Swiggy,-393.24,debit
+429,2024-12-01,Dining,Zomato,-248.34,debit
+430,2024-12-01,GROCERIES,BigBasket,-685.4,debit
+431,2024-12-01,Utilities,Airtel Broadband,-817.85,debit
+432,2024-12-01,Dining,McDonalds,-100.56,debit
+433,2024-12-01,Groceries,Local Kirana,-301.14,debit
+434,2024-12-02,Dining,Swiggy,-322.23,debit
+435,2024-12-03,Entertainment,Spotify,-449.51,debit
+436,2024-12-03,Dining,Swiggy,-156.44,debit
+437,2024-12-04,Dining,McDonalds,-389.0,debit
+438,2024-12-04,GROCERIES,BigBasket,-538.84,debit
+439,2024-12-04,Utilities,Airtel Broadband,-709.52,debit
+440,2024-12-04,Groceries,Local Kirana,-410.37,debit
+441,2024-12-04,Entertainment,BookMyShow,-329.33,debit
+442,2024-12-04,Shopping,Amazon,-220.33,debit
+443,2024-12-05,Rent,Landlord Transfer,-9049.51,debit
+444,2024-12-05,Education,Udemy,-664.87,debit
+445,2024-12-05,Shopping,Flipkart,-1263.36,debit
+446,2024-12-05,Groceries,BigBasket,-357.75,debit
+447,2024-12-05,SHOPPING,Flipkart,-1137.85,debit
+448,2024-12-06,DINING,McDonalds,-138.25,debit
+449,2024-12-06,Groceries,Reliance Fresh,-424.04,debit
+450,2024-12-07,Healthcare,Local Clinic,-730.7,debit
+451,2024-12-07,Groceries,DMart,-481.4,debit
+452,2024-12-07,Dining,McDonalds,-167.15,debit
+453,2024-12-07,Utilities,Jio Recharge,-497.38,debit
+454,2024-12-07,Entertainment,BookMyShow,-321.28,debit
+455,2024-12-08,Shopping,Flipkart,-1339.66,debit
+456,2024-12-08,Groceries,Local Kirana,-379.89,debit
+457,2024-12-09,Utilities,Water Dept,-448.8,debit
+458,2024-12-09,Groceries,,-608.51,debit
+459,2024-12-10,Utilities,Jio Recharge,-464.19,debit
+460,2024-12-10,Groceries,BigBasket,-556.82,debit
+461,2024-12-10,Groceries,DMart,-272.99,debit
+462,2024-12-10,Groceries,DMart,-287.25,debit
+463,2024-12-11,Entertainment,BookMyShow,-363.64,debit
+464,2024-12-11,Healthcare,Health Insurance,-358.14,debit
+465,2024-12-11,ENTERTAINMENT,PVR Cinemas,-415.39,debit
+466,2024-12-11,Dining,Zomato,-264.39,debit
+467,2024-12-12,Groceries,DMart,-311.23,debit
+468,2024-12-14,Transport,Metro Card,-396.94,debit
+469,2024-12-14,Shopping,Amazon,-556.29,debit
+470,2024-12-14,GROCERIES,DMart,-297.18,debit
+471,2024-12-15,Groceries,Reliance Fresh,-627.01,debit
+472,2024-12-15,Groceries,BigBasket,-319.86,debit
+473,2024-12-16,Dining,McDonalds,-309.24,debit
+474,2024-12-16,Healthcare,Health Insurance,-146.15,debit
+475,2024-12-16,Shopping,Myntra,-992.52,debit
+476,2024-12-16,Groceries,Local Kirana,-280.49,debit
+477,2024-12-16,Transport,Uber,-240.24,debit
+478,2024-12-17,Entertainment,Netflix,-181.99,debit
+479,2024-12-17,Dining,Domino's,-311.87,debit
+480,2024-12-17,Shopping,Local Store,-1411.07,debit
+481,2024-12-17,Groceries,Reliance Fresh,-563.99,debit
+482,2024-12-18,Dining,Cafe Coffee Day,-271.73,debit
+483,2024-12-18,Groceries,BigBasket,-192.34,debit
+484,2024-12-18,Groceries,DMart,-326.92,debit
+485,2024-12-19,Groceries,Local Kirana,-595.43,debit
+486,2024-12-19,Groceries,DMart,-156.99,debit
+487,2024-12-19,Groceries,BigBasket,-438.88,debit
+488,2024-12-19,SHOPPING,Myntra,-328.54,debit
+489,2024-12-20,Groceries,Local Kirana,-464.31,debit
+490,2024-12-20,Entertainment,BookMyShow,-150.9,debit
+491,2024-12-20,Groceries,Local Kirana,-536.08,debit
+492,2024-12-20,Groceries,Reliance Fresh,-388.51,debit
+493,2024-12-20,Dining,McDonalds,-323.76,debit
+494,2024-12-21,Utilities,Jio Recharge,-700.98,debit
+495,2024-12-21,Dining,Zomato,-176.01,debit
+496,2024-12-21,Entertainment,PVR Cinemas,-289.59,debit
+497,2024-12-22,Entertainment,BookMyShow,-492.52,debit
+498,2024-12-22,Utilities,Airtel Broadband,-552.61,debit
+499,2024-12-22,Entertainment,Netflix,-423.63,debit
+500,2024-12-24,Dining,Swiggy,-214.27,debit
+501,2024-12-24,Dining,Domino's,-281.64,debit
+502,2024-12-24,Dining,Cafe Coffee Day,-302.54,debit
+503,2024-12-25,Groceries,BigBasket,-680.46,debit
+504,2024-12-25,Entertainment,PVR Cinemas,-256.12,debit
+505,2024-12-25,Dining,Cafe Coffee Day,-137.72,debit
+506,2024-12-25,Dining,,-119.01,debit
+507,2024-12-25,UTILITIES,Electricity Board,-323.12,debit
+508,2024-12-27,Entertainment,Spotify,-235.52,debit
+509,2024-12-27,Dining,Zomato,-208.72,debit
+510,2024-12-28,Shopping,Flipkart,-1001.65,debit
+511,2024-12-28,Dining,McDonalds,-111.27,debit
+512,2024-12-28,Utilities,Jio Recharge,-996.74,debit
+513,2024-12-29,Transport,Metro Card,-119.65,debit
+514,2024-12-30,Dining,Domino's,-160.97,debit
+515,2024-12-30,Shopping,Amazon,-1078.05,debit
+516,2024-12-30,Utilities,Electricity Board,-504.41,debit
+517,2024-12-30,Transport,Uber,-133.38,debit
+518,2024-12-30,Utilities,Airtel Broadband,-563.16,debit
+519,2024-12-31,Utilities,Water Dept,-319.93,debit
+520,2025-01-01,Salary,Employer Inc,50871.25,credit
+521,2025-01-02,Groceries,BigBasket,-363.21,debit
+522,2025-01-02,SHOPPING,Flipkart,-222.03,debit
+523,2025-01-02,Groceries,BigBasket,-557.94,debit
+524,2025-01-03,Dining,Zomato,-136.06,debit
+525,2025-01-03,Groceries,BigBasket,-622.1,debit
+526,2025-01-03,Entertainment,PVR Cinemas,-475.39,debit
+527,2025-01-04,Utilities,Jio Recharge,-766.18,debit
+528,2025-01-04,SHOPPING,Local Store,-1141.64,debit
+529,2025-01-04,TRANSPORT,Petrol Pump,-190.81,debit
+530,2025-01-04,Entertainment,Netflix,-436.11,debit
+531,2025-01-04,Dining,Swiggy,-367.77,debit
+532,2025-01-05,Healthcare,Local Clinic,-624.53,debit
+533,2025-01-05,Transport,Uber,-319.89,debit
+534,2025-01-05,Rent,Landlord Transfer,-8863.89,debit
+535,2025-01-06,Dining,Domino's,-226.76,debit
+536,2025-01-06,Groceries,BigBasket,-506.23,debit
+537,2025-01-06,Groceries,DMart,-259.82,debit
+538,2025-01-06,Groceries,Reliance Fresh,-530.69,debit
+539,2025-01-06,Utilities,Water Dept,-483.1,debit
+540,2025-01-06,Dining,Cafe Coffee Day,-362.0,debit
+541,2025-01-07,Utilities,Water Dept,-278.47,debit
+542,2025-01-07,Dining,Swiggy,-253.8,debit
+543,2025-01-07,DINING,Zomato,-360.58,debit
+544,2025-01-08,Transport,Uber,-379.99,debit
+545,2025-01-08,Utilities,Jio Recharge,-235.51,debit
+546,2025-01-09,Groceries,Local Kirana,-175.16,debit
+547,2025-01-10,Groceries,Reliance Fresh,-418.2,debit
+548,2025-01-10,Dining,Domino's,-163.21,debit
+549,2025-01-11,Shopping,Myntra,-1067.83,debit
+550,2025-01-11,Groceries,,-609.7,debit
+551,2025-01-12,GROCERIES,Local Kirana,-187.31,debit
+552,2025-01-12,Entertainment,Spotify,-370.13,debit
+553,2025-01-13,Entertainment,PVR Cinemas,-353.03,debit
+554,2025-01-14,Education,Coursera,-1132.02,debit
+555,2025-01-14,UTILITIES,Electricity Board,-587.86,debit
+556,2025-01-14,Education,College Fee,-1557.98,debit
+557,2025-01-14,Shopping,,-415.51,debit
+558,2025-01-14,Education,College Fee,-1906.04,debit
+559,2025-01-14,Dining,Zomato,-145.22,debit
+560,2025-01-14,Healthcare,Health Insurance,-903.6,debit
+561,2025-01-14,Entertainment,PVR Cinemas,-212.39,debit
+562,2025-01-17,Transport,Uber,-170.53,debit
+563,2025-01-17,Education,Udemy,-1331.69,debit
+564,2025-01-18,HEALTHCARE,Local Clinic,-1069.86,debit
+565,2025-01-18,Shopping,Myntra,-764.79,debit
+566,2025-01-19,HEALTHCARE,Health Insurance,-1070.35,debit
+567,2025-01-19,Groceries,BigBasket,-314.96,debit
+568,2025-01-20,GROCERIES,DMart,-420.39,debit
+569,2025-01-20,Shopping,Flipkart,-1012.9,debit
+570,2025-01-20,Utilities,Jio Recharge,-750.62,debit
+571,2025-01-21,GROCERIES,BigBasket,-519.44,debit
+572,2025-01-22,Groceries,Local Kirana,-646.07,debit
+573,2025-01-22,Entertainment,PVR Cinemas,-495.32,debit
+574,2025-01-22,Transport,Metro Card,-269.88,debit
+575,2025-01-22,Transport,Petrol Pump,-52.24,debit
+576,2025-01-22,Education,,-1698.22,debit
+577,2025-01-23,Shopping,Myntra,-1095.22,debit
+578,2025-01-24,Transport,Metro Card,-340.06,debit
+579,2025-01-24,Dining,Zomato,-346.54,debit
+580,2025-01-25,Healthcare,Local Clinic,-979.69,debit
+581,2025-01-25,Groceries,Local Kirana,-534.37,debit
+582,2025-01-26,Utilities,Airtel Broadband,-546.25,debit
+583,2025-01-26,Entertainment,Spotify,-384.76,debit
+584,2025-01-26,Utilities,Jio Recharge,-561.77,debit
+585,2025-01-27,Groceries,BigBasket,-560.26,debit
+586,2025-01-27,Entertainment,PVR Cinemas,-274.19,debit
+587,2025-01-27,Groceries,Local Kirana,-448.36,debit
+588,2025-01-27,ENTERTAINMENT,Spotify,-186.68,debit
+589,2025-01-29,Groceries,BigBasket,-677.77,debit
+590,2025-01-29,Entertainment,Netflix,-213.98,debit
+591,2025-01-30,Groceries,BigBasket,-171.87,debit
+592,2025-01-30,Transport,Uber,-134.72,debit
+593,2025-01-30,Entertainment,BookMyShow,-354.14,debit
+594,2025-01-30,ENTERTAINMENT,BookMyShow,-461.29,debit
+595,2025-01-30,Entertainment,Netflix,-356.59,debit
+596,2025-01-30,Dining,McDonalds,-223.33,debit
+597,2025-01-30,Groceries,Local Kirana,-352.9,debit
+598,2025-01-31,Groceries,Local Kirana,-527.62,debit
+599,2025-01-31,Groceries,Local Kirana,-361.97,debit
+600,2025-01-31,TRANSPORT,Uber,-219.67,debit
+601,2025-01-31,Utilities,Airtel Broadband,-460.26,debit
+602,2025-01-31,Dining,Domino's,-204.82,debit
+603,2025-01-31,Entertainment,Spotify,-470.0,debit
+604,2025-02-01,Entertainment,BookMyShow,-397.17,debit
+605,2025-02-01,Salary,Employer Inc,62992.64,credit
+606,2025-02-01,Dining,Domino's,-253.38,debit
+607,2025-02-01,Transport,Ola,-62.84,debit
+608,2025-02-01,Entertainment,Spotify,-483.13,debit
+609,2025-02-01,Healthcare,Local Clinic,-910.81,debit
+610,2025-02-02,Shopping,Amazon,-912.36,debit
+611,2025-02-02,ENTERTAINMENT,PVR Cinemas,-281.69,debit
+612,2025-02-02,Dining,Domino's,-130.0,debit
+613,2025-02-02,Entertainment,Spotify,-198.69,debit
+614,2025-02-02,DINING,Cafe Coffee Day,-182.8,debit
+615,2025-02-03,ENTERTAINMENT,Spotify,-185.28,debit
+616,2025-02-03,Dining,Swiggy,-153.81,debit
+617,2025-02-03,Dining,Swiggy,-368.45,debit
+618,2025-02-04,GROCERIES,Local Kirana,-187.04,debit
+619,2025-02-04,Dining,Domino's,-280.64,debit
+620,2025-02-05,Groceries,BigBasket,-321.28,debit
+621,2025-02-05,Groceries,Local Kirana,-176.52,debit
+622,2025-02-05,Groceries,BigBasket,-651.01,debit
+623,2025-02-05,Rent,Landlord Transfer,-8582.46,debit
+624,2025-02-05,Dining,Cafe Coffee Day,-395.86,debit
+625,2025-02-07,ENTERTAINMENT,BookMyShow,-466.01,debit
+626,2025-02-07,Groceries,Reliance Fresh,-375.71,debit
+627,2025-02-07,Utilities,Airtel Broadband,-556.43,debit
+628,2025-02-07,Transport,Uber,-96.91,debit
+629,2025-02-08,Entertainment,PVR Cinemas,-154.41,debit
+630,2025-02-08,Shopping,Local Store,-1460.31,debit
+631,2025-02-08,SHOPPING,Myntra,-791.69,debit
+632,2025-02-09,GROCERIES,Reliance Fresh,-689.65,debit
+633,2025-02-09,Shopping,Myntra,-1084.92,debit
+634,2025-02-10,GROCERIES,Local Kirana,-284.27,debit
+635,2025-02-10,Dining,Domino's,-206.43,debit
+636,2025-02-10,Shopping,Myntra,-605.47,debit
+637,2025-02-11,GROCERIES,Local Kirana,-316.72,debit
+638,2025-02-11,GROCERIES,BigBasket,-671.99,debit
+639,2025-02-11,Dining,McDonalds,-128.71,debit
+640,2025-02-11,DINING,Domino's,-317.03,debit
+641,2025-02-12,Groceries,Local Kirana,-398.43,debit
+642,2025-02-12,Groceries,DMart,-342.89,debit
+643,2025-02-13,Shopping,,-1230.84,debit
+644,2025-02-13,EDUCATION,Coursera,-968.43,debit
+645,2025-02-13,Groceries,DMart,-522.65,debit
+646,2025-02-14,GROCERIES,Reliance Fresh,-299.68,debit
+647,2025-02-14,GROCERIES,BigBasket,-456.2,debit
+648,2025-02-14,Utilities,Jio Recharge,-762.35,debit
+649,2025-02-14,DINING,McDonalds,-103.31,debit
+650,2025-02-14,Groceries,Reliance Fresh,-683.12,debit
+651,2025-02-15,Dining,Cafe Coffee Day,-260.51,debit
+652,2025-02-16,Dining,McDonalds,-252.57,debit
+653,2025-02-16,Groceries,Reliance Fresh,-321.68,debit
+654,2025-02-16,DINING,Zomato,-264.69,debit
+655,2025-02-17,Entertainment,PVR Cinemas,-217.15,debit
+656,2025-02-17,Transport,Metro Card,-375.83,debit
+657,2025-02-17,Shopping,Flipkart,-410.11,debit
+658,2025-02-17,Healthcare,Local Clinic,-750.87,debit
+659,2025-02-18,Dining,Zomato,-347.35,debit
+660,2025-02-18,Dining,McDonalds,-185.37,debit
+661,2025-02-19,GROCERIES,DMart,-177.62,debit
+662,2025-02-19,Transport,Ola,-341.44,debit
+663,2025-02-20,Dining,,-346.99,debit
+664,2025-02-20,Utilities,Electricity Board,-519.49,debit
+665,2025-02-20,Entertainment,Netflix,-493.42,debit
+666,2025-02-21,Groceries,BigBasket,-335.6,debit
+667,2025-02-21,EDUCATION,,-455.89,debit
+668,2025-02-21,Dining,McDonalds,-319.26,debit
+669,2025-02-22,ENTERTAINMENT,BookMyShow,-350.65,debit
+670,2025-02-22,TRANSPORT,Petrol Pump,-329.1,debit
+671,2025-02-23,Transport,Petrol Pump,-87.51,debit
+672,2025-02-24,Groceries,BigBasket,-422.64,debit
+673,2025-02-24,Utilities,Electricity Board,-581.19,debit
+674,2025-02-26,Utilities,Electricity Board,-337.67,debit
+675,2025-02-26,Utilities,Airtel Broadband,-772.03,debit
+676,2025-02-26,Healthcare,Local Clinic,-980.85,debit
+677,2025-02-27,Groceries,Local Kirana,-579.64,debit
+678,2025-02-27,Groceries,BigBasket,-555.28,debit
+679,2025-02-27,Entertainment,Spotify,-152.74,debit
+680,2025-02-27,Dining,Swiggy,-260.27,debit
+681,2025-02-27,UTILITIES,Electricity Board,-221.09,debit
+682,2025-02-28,Groceries,Reliance Fresh,-408.6,debit
+683,2025-02-28,Groceries,BigBasket,-690.31,debit
+684,2025-03-01,Groceries,DMart,-675.38,debit
+685,2025-03-01,Salary,Employer Inc,59016.73,credit
+686,2025-03-01,Utilities,Jio Recharge,-938.37,debit
+687,2025-03-02,Shopping,Local Store,-1384.98,debit
+688,2025-03-02,GROCERIES,BigBasket,-428.98,debit
+689,2025-03-04,Dining,Swiggy,-243.07,debit
+690,2025-03-04,Dining,Swiggy,-360.12,debit
+691,2025-03-04,Groceries,DMart,-666.49,debit
+692,2025-03-04,Entertainment,BookMyShow,-279.38,debit
+693,2025-03-05,Utilities,Electricity Board,-737.25,debit
+694,2025-03-05,Groceries,Reliance Fresh,-500.73,debit
+695,2025-03-05,ENTERTAINMENT,Spotify,-280.74,debit
+696,2025-03-05,Dining,Cafe Coffee Day,-261.61,debit
+697,2025-03-05,Rent,Landlord Transfer,-9223.71,debit
+698,2025-03-05,EDUCATION,Coursera,-1988.53,debit
+699,2025-03-06,UTILITIES,Airtel Broadband,-265.41,debit
+700,2025-03-06,Utilities,Jio Recharge,-860.23,debit
+701,2025-03-06,Groceries,DMart,-180.05,debit
+702,2025-03-06,Dining,,-359.67,debit
+703,2025-03-07,Groceries,Local Kirana,-239.11,debit
+704,2025-03-07,HEALTHCARE,Apollo Pharmacy,-693.32,debit
+705,2025-03-08,Groceries,BigBasket,-339.94,debit
+706,2025-03-09,ENTERTAINMENT,BookMyShow,-281.56,debit
+707,2025-03-09,Dining,Zomato,-337.76,debit
+708,2025-03-09,Entertainment,BookMyShow,-398.9,debit
+709,2025-03-09,Education,Coursera,-1302.86,debit
+710,2025-03-09,Entertainment,PVR Cinemas,-498.84,debit
+711,2025-03-09,Groceries,Local Kirana,-455.36,debit
+712,2025-03-10,Healthcare,Health Insurance,-898.29,debit
+713,2025-03-10,Shopping,Flipkart,-1111.26,debit
+714,2025-03-10,EDUCATION,,-929.8,debit
+715,2025-03-10,Entertainment,BookMyShow,-494.29,debit
+716,2025-03-10,Dining,Zomato,-195.08,debit
+717,2025-03-11,Groceries,Local Kirana,-225.04,debit
+718,2025-03-11,Utilities,Electricity Board,-200.01,debit
+719,2025-03-11,Utilities,Airtel Broadband,-843.99,debit
+720,2025-03-12,Groceries,DMart,-336.6,debit
+721,2025-03-12,Shopping,Amazon,-1022.0,debit
+722,2025-03-12,UTILITIES,,-961.78,debit
+723,2025-03-13,Utilities,Airtel Broadband,-888.85,debit
+724,2025-03-14,DINING,Swiggy,-163.93,debit
+725,2025-03-15,Entertainment,BookMyShow,-373.28,debit
+726,2025-03-15,Groceries,Local Kirana,-671.87,debit
+727,2025-03-15,DINING,Domino's,-319.2,debit
+728,2025-03-15,Entertainment,Netflix,-472.1,debit
+729,2025-03-15,Groceries,DMart,-442.87,debit
+730,2025-03-15,Entertainment,Netflix,-376.26,debit
+731,2025-03-16,TRANSPORT,Metro Card,-309.34,debit
+732,2025-03-16,Entertainment,Netflix,-481.69,debit
+733,2025-03-16,Groceries,DMart,-696.78,debit
+734,2025-03-17,Entertainment,BookMyShow,-169.66,debit
+735,2025-03-17,Dining,Domino's,-204.65,debit
+736,2025-03-17,Shopping,Amazon,-1380.27,debit
+737,2025-03-18,UTILITIES,Airtel Broadband,-811.5,debit
+738,2025-03-19,Transport,Metro Card,-220.75,debit
+739,2025-03-19,Education,Udemy,-1146.67,debit
+740,2025-03-19,ENTERTAINMENT,,-449.79,debit
+741,2025-03-19,SHOPPING,Myntra,-946.96,debit
+742,2025-03-19,Groceries,Local Kirana,-281.37,debit
+743,2025-03-19,UTILITIES,Electricity Board,-367.3,debit
+744,2025-03-21,EDUCATION,College Fee,-303.94,debit
+745,2025-03-21,Shopping,Myntra,-1179.22,debit
+746,2025-03-21,Groceries,Local Kirana,-693.8,debit
+747,2025-03-21,Entertainment,Netflix,-380.57,debit
+748,2025-03-21,Groceries,BigBasket,-667.25,debit
+749,2025-03-21,Transport,Petrol Pump,-387.84,debit
+750,2025-03-21,Groceries,DMart,-365.08,debit
+751,2025-03-21,Shopping,Amazon,-971.19,debit
+752,2025-03-22,SHOPPING,Flipkart,-343.97,debit
+753,2025-03-22,DINING,Cafe Coffee Day,-272.03,debit
+754,2025-03-23,Groceries,DMart,-439.62,debit
+755,2025-03-23,Transport,Petrol Pump,-216.02,debit
+756,2025-03-23,Groceries,DMart,-697.18,debit
+757,2025-03-24,Dining,McDonalds,-395.45,debit
+758,2025-03-24,Shopping,Myntra,-554.85,debit
+759,2025-03-24,Education,College Fee,-578.6,debit
+760,2025-03-24,Education,Coursera,-1274.69,debit
+761,2025-03-25,Utilities,Water Dept,-485.34,debit
+762,2025-03-25,Dining,Zomato,-295.45,debit
+763,2025-03-25,Entertainment,PVR Cinemas,-403.7,debit
+764,2025-03-25,Shopping,Flipkart,-1026.89,debit
+765,2025-03-26,Utilities,Airtel Broadband,-735.68,debit
+766,2025-03-26,Dining,Zomato,-303.67,debit
+767,2025-03-26,Dining,Cafe Coffee Day,-364.58,debit
+768,2025-03-27,Groceries,Local Kirana,-570.65,debit
+769,2025-03-27,Transport,Metro Card,-80.97,debit
+770,2025-03-27,Groceries,BigBasket,-458.1,debit
+771,2025-03-28,DINING,Domino's,-390.46,debit
+772,2025-03-28,Utilities,Water Dept,-787.56,debit
+773,2025-03-28,Groceries,DMart,-273.54,debit
+774,2025-03-28,Dining,Cafe Coffee Day,-198.0,debit
+775,2025-03-28,GROCERIES,BigBasket,-219.45,debit
+776,2025-03-29,Groceries,Reliance Fresh,-527.48,debit
+777,2025-03-29,Utilities,Water Dept,-643.48,debit
+778,2025-03-30,Groceries,Local Kirana,-318.44,debit
+779,2025-03-30,Groceries,DMart,-444.43,debit
+780,2025-03-30,Groceries,Local Kirana,-175.22,debit
+781,2025-04-01,Entertainment,Spotify,-215.74,debit
+782,2025-04-01,SALARY,Employer Inc,60621.09,credit
+783,2025-04-01,Transport,Ola,-296.78,debit
+784,2025-04-01,GROCERIES,BigBasket,-231.39,debit
+785,2025-04-01,Shopping,Local Store,-1476.34,debit
+786,2025-04-02,Entertainment,PVR Cinemas,-397.37,debit
+787,2025-04-03,Groceries,Local Kirana,-507.3,debit
+788,2025-04-03,Groceries,Local Kirana,-367.55,debit
+789,2025-04-03,Utilities,Water Dept,-735.14,debit
+790,2025-04-03,Groceries,DMart,-205.35,debit
+791,2025-04-03,DINING,Domino's,-130.43,debit
+792,2025-04-04,Transport,Metro Card,-136.71,debit
+793,2025-04-04,Utilities,Electricity Board,-582.3,debit
+794,2025-04-05,Rent,Landlord Transfer,-8278.99,debit
+795,2025-04-05,Shopping,Flipkart,-1299.29,debit
+796,2025-04-05,Dining,Domino's,-212.7,debit
+797,2025-04-06,GROCERIES,DMart,-653.1,debit
+798,2025-04-06,Entertainment,Spotify,-200.38,debit
+799,2025-04-06,Education,Udemy,-1364.6,debit
+800,2025-04-06,Transport,Ola,-70.05,debit
+801,2025-04-07,Dining,McDonalds,-242.62,debit
+802,2025-04-07,TRANSPORT,Metro Card,-106.3,debit
+803,2025-04-07,ENTERTAINMENT,BookMyShow,-171.09,debit
+804,2025-04-07,Groceries,DMart,-504.78,debit
+805,2025-04-07,Dining,Zomato,-376.83,debit
+806,2025-04-07,Dining,Swiggy,-389.87,debit
+807,2025-04-08,GROCERIES,Reliance Fresh,-308.78,debit
+808,2025-04-08,UTILITIES,Airtel Broadband,-450.28,debit
+809,2025-04-08,GROCERIES,DMart,-328.57,debit
+810,2025-04-09,Dining,,-367.02,debit
+811,2025-04-09,Healthcare,Health Insurance,-656.44,debit
+812,2025-04-10,Transport,Metro Card,-243.38,debit
+813,2025-04-10,Groceries,BigBasket,-183.83,debit
+814,2025-04-10,ENTERTAINMENT,Netflix,-354.02,debit
+815,2025-04-10,Entertainment,Spotify,-285.22,debit
+816,2025-04-11,ENTERTAINMENT,BookMyShow,-308.27,debit
+817,2025-04-11,Transport,Ola,-96.11,debit
+818,2025-04-11,GROCERIES,Local Kirana,-613.15,debit
+819,2025-04-12,Dining,Cafe Coffee Day,-126.63,debit
+820,2025-04-12,SHOPPING,Flipkart,-845.53,debit
+821,2025-04-12,Utilities,Jio Recharge,-923.33,debit
+822,2025-04-12,Shopping,Amazon,-1258.95,debit
+823,2025-04-13,Shopping,Local Store,-525.95,debit
+824,2025-04-13,TRANSPORT,Petrol Pump,-108.56,debit
+825,2025-04-14,Shopping,Myntra,-1451.44,debit
+826,2025-04-14,Entertainment,Spotify,-194.83,debit
+827,2025-04-14,Groceries,DMart,-276.53,debit
+828,2025-04-14,Entertainment,BookMyShow,-199.03,debit
+829,2025-04-14,Groceries,Local Kirana,-428.76,debit
+830,2025-04-14,Groceries,Reliance Fresh,-212.46,debit
+831,2025-04-14,Groceries,Local Kirana,-321.5,debit
+832,2025-04-14,Utilities,Airtel Broadband,-216.69,debit
+833,2025-04-15,Dining,Domino's,-319.72,debit
+834,2025-04-15,ENTERTAINMENT,Spotify,-275.46,debit
+835,2025-04-15,Healthcare,,-143.58,debit
+836,2025-04-15,Groceries,DMart,-542.74,debit
+837,2025-04-15,Utilities,Jio Recharge,-658.52,debit
+838,2025-04-15,TRANSPORT,Ola,-395.55,debit
+839,2025-04-16,Groceries,BigBasket,-383.62,debit
+840,2025-04-16,Groceries,BigBasket,-505.16,debit
+841,2025-04-16,Groceries,Reliance Fresh,-437.42,debit
+842,2025-04-16,GROCERIES,DMart,-546.95,debit
+843,2025-04-17,Groceries,DMart,-472.88,debit
+844,2025-04-17,Entertainment,Spotify,-363.62,debit
+845,2025-04-19,TRANSPORT,Petrol Pump,-146.15,debit
+846,2025-04-19,ENTERTAINMENT,PVR Cinemas,-222.17,debit
+847,2025-04-19,Groceries,,-650.69,debit
+848,2025-04-20,UTILITIES,Jio Recharge,-283.9,debit
+849,2025-04-20,Dining,McDonalds,-109.96,debit
+850,2025-04-21,Groceries,Local Kirana,-653.39,debit
+851,2025-04-21,Groceries,Reliance Fresh,-306.12,debit
+852,2025-04-21,GROCERIES,BigBasket,-206.41,debit
+853,2025-04-21,Dining,Domino's,-106.61,debit
+854,2025-04-21,Groceries,Reliance Fresh,-673.28,debit
+855,2025-04-22,TRANSPORT,Uber,-296.72,debit
+856,2025-04-22,TRANSPORT,Petrol Pump,-344.64,debit
+857,2025-04-23,Utilities,Electricity Board,-449.88,debit
+858,2025-04-24,Entertainment,Netflix,-275.55,debit
+859,2025-04-25,Entertainment,PVR Cinemas,-213.56,debit
+860,2025-04-25,Entertainment,BookMyShow,-252.76,debit
+861,2025-04-27,Utilities,Electricity Board,-925.21,debit
+862,2025-04-28,Shopping,Amazon,-480.38,debit
+863,2025-04-28,Groceries,Reliance Fresh,-490.04,debit
+864,2025-04-28,Entertainment,,-390.76,debit
+865,2025-04-29,Groceries,Local Kirana,-630.12,debit
+866,2025-04-29,Shopping,Flipkart,-1412.55,debit
+867,2025-04-29,Dining,McDonalds,-286.09,debit
+868,2025-04-30,Entertainment,PVR Cinemas,-316.84,debit
+869,2025-04-30,DINING,Zomato,-242.79,debit
+870,2025-04-30,Groceries,Local Kirana,-624.95,debit
+871,2025-05-01,Shopping,Myntra,-740.68,debit
+872,2025-05-01,Groceries,DMart,-529.81,debit
+873,2025-05-01,Salary,Employer Inc,50308.77,credit
+874,2025-05-01,Utilities,Jio Recharge,-966.06,debit
+875,2025-05-01,Dining,Zomato,-384.11,debit
+876,2025-05-02,Education,College Fee,-1947.09,debit
+877,2025-05-02,Education,College Fee,-1073.06,debit
+878,2025-05-02,Shopping,Flipkart,-1458.37,debit
+879,2025-05-03,ENTERTAINMENT,Spotify,-325.75,debit
+880,2025-05-03,Entertainment,Netflix,-172.77,debit
+881,2025-05-04,UTILITIES,Electricity Board,-826.92,debit
+882,2025-05-04,Entertainment,,-299.13,debit
+883,2025-05-04,Groceries,Local Kirana,-223.85,debit
+884,2025-05-05,Rent,Landlord Transfer,-8584.29,debit
+885,2025-05-05,Shopping,Myntra,-905.7,debit
+886,2025-05-06,Entertainment,Netflix,-263.61,debit
+887,2025-05-06,GROCERIES,Local Kirana,-196.94,debit
+888,2025-05-06,Transport,Metro Card,-81.62,debit
+889,2025-05-06,Dining,McDonalds,-245.13,debit
+890,2025-05-06,Groceries,Local Kirana,-207.97,debit
+891,2025-05-07,Dining,Swiggy,-106.38,debit
+892,2025-05-07,Entertainment,Spotify,-379.31,debit
+893,2025-05-07,Groceries,DMart,-689.65,debit
+894,2025-05-07,Shopping,Amazon,-894.65,debit
+895,2025-05-07,Groceries,Reliance Fresh,-674.05,debit
+896,2025-05-08,Shopping,Amazon,-1336.42,debit
+897,2025-05-08,Groceries,Reliance Fresh,-642.36,debit
+898,2025-05-08,Utilities,Electricity Board,-485.51,debit
+899,2025-05-08,Transport,Uber,-139.8,debit
+900,2025-05-08,Utilities,Airtel Broadband,-494.65,debit
+901,2025-05-09,HEALTHCARE,Apollo Pharmacy,-290.83,debit
+902,2025-05-09,GROCERIES,,-212.85,debit
+903,2025-05-10,Dining,Cafe Coffee Day,-204.91,debit
+904,2025-05-10,Entertainment,Spotify,-303.18,debit
+905,2025-05-10,Entertainment,BookMyShow,-438.8,debit
+906,2025-05-10,UTILITIES,Electricity Board,-821.19,debit
+907,2025-05-11,Transport,Petrol Pump,-52.34,debit
+908,2025-05-11,Dining,Zomato,-221.15,debit
+909,2025-05-11,Education,Udemy,-1887.28,debit
+910,2025-05-12,SHOPPING,Flipkart,-851.5,debit
+911,2025-05-12,Utilities,Electricity Board,-390.04,debit
+912,2025-05-13,Dining,Swiggy,-253.69,debit
+913,2025-05-13,Dining,,-397.89,debit
+914,2025-05-13,Dining,Domino's,-115.57,debit
+915,2025-05-13,Utilities,Water Dept,-219.45,debit
+916,2025-05-13,Entertainment,Spotify,-358.17,debit
+917,2025-05-13,Groceries,BigBasket,-283.04,debit
+918,2025-05-14,Dining,Zomato,-274.23,debit
+919,2025-05-14,EDUCATION,Coursera,-1483.72,debit
+920,2025-05-14,ENTERTAINMENT,BookMyShow,-358.18,debit
+921,2025-05-15,Dining,,-277.38,debit
+922,2025-05-15,Groceries,Local Kirana,-584.11,debit
+923,2025-05-16,GROCERIES,DMart,-234.9,debit
+924,2025-05-16,Shopping,Local Store,-679.08,debit
+925,2025-05-16,Dining,Cafe Coffee Day,-369.67,debit
+926,2025-05-16,Utilities,Water Dept,-441.01,debit
+927,2025-05-16,Dining,Domino's,-348.01,debit
+928,2025-05-17,Shopping,Amazon,-1431.42,debit
+929,2025-05-17,Groceries,BigBasket,-568.13,debit
+930,2025-05-17,Dining,Cafe Coffee Day,-201.2,debit
+931,2025-05-18,Groceries,DMart,-537.09,debit
+932,2025-05-18,UTILITIES,Water Dept,-276.32,debit
+933,2025-05-19,Groceries,DMart,-551.08,debit
+934,2025-05-19,Dining,McDonalds,-391.46,debit
+935,2025-05-19,Dining,Swiggy,-263.13,debit
+936,2025-05-20,Entertainment,Spotify,-264.46,debit
+937,2025-05-20,Dining,Domino's,-252.08,debit
+938,2025-05-20,DINING,Cafe Coffee Day,-210.72,debit
+939,2025-05-20,Shopping,Amazon,-449.07,debit
+940,2025-05-20,SHOPPING,Flipkart,-1342.67,debit
+941,2025-05-21,Groceries,Local Kirana,-428.0,debit
+942,2025-05-21,Utilities,Water Dept,-374.31,debit
+943,2025-05-22,Entertainment,Netflix,-388.77,debit
+944,2025-05-23,ENTERTAINMENT,Netflix,-333.19,debit
+945,2025-05-24,Groceries,Local Kirana,-664.41,debit
+946,2025-05-24,Education,College Fee,-1652.08,debit
+947,2025-05-24,Entertainment,Netflix,-351.7,debit
+948,2025-05-24,Shopping,Amazon,-462.12,debit
+949,2025-05-24,Groceries,BigBasket,-160.89,debit
+950,2025-05-25,Groceries,BigBasket,-391.53,debit
+951,2025-05-26,Dining,Swiggy,-384.19,debit
+952,2025-05-26,Groceries,BigBasket,-271.27,debit
+953,2025-05-27,Dining,Cafe Coffee Day,-206.89,debit
+954,2025-05-27,Shopping,,-1214.49,debit
+955,2025-05-27,Healthcare,Local Clinic,-502.25,debit
+956,2025-05-28,GROCERIES,Reliance Fresh,-502.35,debit
+957,2025-05-28,Shopping,Flipkart,-1206.04,debit
+958,2025-05-28,GROCERIES,BigBasket,-655.66,debit
+959,2025-05-29,Entertainment,,-220.33,debit
+960,2025-05-29,Utilities,Jio Recharge,-393.58,debit
+961,2025-05-30,Shopping,Amazon,-337.36,debit
+962,2025-05-31,Entertainment,Netflix,-217.41,debit
+963,2025-05-31,UTILITIES,Jio Recharge,-295.96,debit
+964,2025-06-01,Shopping,,-1366.34,debit
+965,2025-06-01,Dining,Swiggy,-353.44,debit
+966,2025-06-01,Salary,Employer Inc,64548.65,credit
+967,2025-06-01,Shopping,Amazon,-1449.97,debit
+968,2025-06-03,Transport,Uber,-202.43,debit
+969,2025-06-03,Utilities,Jio Recharge,-721.57,debit
+970,2025-06-04,SHOPPING,Amazon,-1347.33,debit
+971,2025-06-04,Transport,Metro Card,-54.0,debit
+972,2025-06-05,Groceries,BigBasket,-445.35,debit
+973,2025-06-05,Rent,Landlord Transfer,-8732.72,debit
+974,2025-06-05,Dining,Zomato,-148.25,debit
+975,2025-06-05,Dining,Zomato,-256.39,debit
+976,2025-06-06,Shopping,Amazon,-556.27,debit
+977,2025-06-06,Shopping,Local Store,-1319.72,debit
+978,2025-06-06,DINING,Cafe Coffee Day,-170.51,debit
+979,2025-06-07,Shopping,Amazon,-1289.83,debit
+980,2025-06-07,Groceries,Local Kirana,-480.36,debit
+981,2025-06-08,Utilities,Jio Recharge,-284.55,debit
+982,2025-06-09,Shopping,Local Store,-339.07,debit
+983,2025-06-10,Utilities,Jio Recharge,-744.89,debit
+984,2025-06-11,Groceries,Local Kirana,-282.56,debit
+985,2025-06-11,Groceries,BigBasket,-194.48,debit
+986,2025-06-14,Groceries,Reliance Fresh,-530.89,debit
+987,2025-06-15,Groceries,Local Kirana,-183.59,debit
+988,2025-06-15,Shopping,Amazon,-1106.97,debit
+989,2025-06-15,Utilities,Jio Recharge,-310.68,debit
+990,2025-06-17,Dining,Zomato,-237.47,debit
+991,2025-06-17,Entertainment,Netflix,-334.01,debit
+992,2025-06-18,Utilities,Jio Recharge,-284.74,debit
+993,2025-06-18,DINING,McDonalds,-231.56,debit
+994,2025-06-18,Transport,Metro Card,-252.12,debit
+995,2025-06-19,ENTERTAINMENT,Netflix,-482.66,debit
+996,2025-06-19,Dining,Zomato,-289.43,debit
+997,2025-06-19,Groceries,BigBasket,-200.37,debit
+998,2025-06-19,Entertainment,BookMyShow,-332.51,debit
+999,2025-06-19,Groceries,Reliance Fresh,-519.61,debit
+1000,2025-06-20,Healthcare,Local Clinic,-957.73,debit
+1001,2025-06-20,Groceries,,-396.11,debit
+1002,2025-06-21,Dining,Domino's,-115.55,debit
+1003,2025-06-21,SHOPPING,Amazon,-1399.25,debit
+1004,2025-06-22,Groceries,BigBasket,-268.83,debit
+1005,2025-06-22,Transport,Petrol Pump,-251.57,debit
+1006,2025-06-24,Groceries,Reliance Fresh,-385.15,debit
+1007,2025-06-24,Utilities,Electricity Board,-391.02,debit
+1008,2025-06-24,Groceries,DMart,-241.79,debit
+1009,2025-06-25,Utilities,Electricity Board,-447.95,debit
+1010,2025-06-25,HEALTHCARE,Apollo Pharmacy,-1179.88,debit
+1011,2025-06-26,Transport,Metro Card,-85.96,debit
+1012,2025-06-26,Dining,Cafe Coffee Day,-233.01,debit
+1013,2025-06-26,Utilities,Jio Recharge,-525.58,debit
+1014,2025-06-27,Education,Udemy,-1104.05,debit
+1015,2025-06-27,Entertainment,Netflix,-344.28,debit
+1016,2025-06-28,Utilities,,-803.09,debit
+1017,2025-06-28,Dining,Swiggy,-218.63,debit
+1018,2025-06-28,Education,Udemy,-1316.79,debit
+1019,2025-06-29,Transport,Metro Card,-207.54,debit
+1020,2025-06-29,Dining,McDonalds,-176.3,debit
+1021,2025-06-29,SHOPPING,Flipkart,-429.3,debit
+1022,2025-06-29,Healthcare,Apollo Pharmacy,-1004.63,debit
+1023,2025-06-29,Groceries,DMart,-293.94,debit
+1024,2025-06-29,Dining,Zomato,-259.47,debit
+831,2025-04-14,Groceries,Local Kirana,-321.5,debit
+796,2025-04-05,Dining,Domino's,-212.7,debit
+496,2024-12-21,Entertainment,PVR Cinemas,-289.59,debit
+823,2025-04-13,Shopping,Local Store,-525.95,debit
+860,2025-04-25,Entertainment,BookMyShow,-252.76,debit
+105,2024-08-10,Shopping,Amazon,-1010.29,debit
+28,2024-07-08,SHOPPING,Local Store,-1266.49,debit
+987,2025-06-15,GROCERIES,Local Kirana,-183.59,debit
+736,2025-03-17,Shopping,Amazon,-1380.27,debit
+787,2025-04-03,Groceries,Local Kirana,-507.3,debit
+492,2024-12-20,Groceries,Reliance Fresh,-388.51,debit
+845,2025-04-19,TRANSPORT,Petrol Pump,-146.15,debit
+674,2025-02-26,Utilities,Electricity Board,-337.67,debit
+614,2025-02-02,Dining,Cafe Coffee Day,-182.8,debit
+341,2024-11-01,Dining,Swiggy,-274.66,debit
