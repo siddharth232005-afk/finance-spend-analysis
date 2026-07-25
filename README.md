@@ -80,7 +80,3 @@ psql -U <user> -d <dbname> -f queries.sql
 python3 make_charts.py
 ```
 
-## Future Improvements
-- Deploy as an interactive Streamlit dashboard
-- Add anomaly detection for unusual spending patterns
-- Connect to a real transaction API/export for live data
