@@ -63,6 +63,14 @@ finance_project/
 - Spend is fairly stable month-to-month (±15%) apart from occasional spikes
   tied to one-time education/shopping expenses.
 
+  ## Visualizations
+
+![Monthly Spend by Category](chart1_monthly_category_spend.png)
+
+![Category Totals](chart2_category_totals.png)
+
+![Income vs Expense](chart3_income_vs_expense.png)
+
 ## How to Run
 ```bash
 # 1. Generate & clean data
